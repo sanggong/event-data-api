@@ -1,0 +1,1 @@
+SERVER_URL = 'Event Collect API Server URL'
